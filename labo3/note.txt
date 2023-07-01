@@ -1,0 +1,26 @@
+
+code de joseph
+2395412
+
+? je sais pas trop ce que ça retourne pour l'instant
+https://pokeapi.co/api/v2/pokemon/poliwrath
+
+les 20 premiers
+https://pokeapi.co/api/v2/pokemon/
+
+https://pokeapi.co/api/v2/pokemon/?limit=100
+
+https://pokeapi.co/api/v2/pokemon/1
+
+https://pokeapi.co/api/v2/pokemon/pikachu
+
+! important c comme ça qu'on a accès à la photo arrière {back_default}
+https://pokeapi.co/api/v2/pokemon-form/25/
+
+"sprites": {
+        "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png",
+
+[ ]
+`
+"""
+>>
